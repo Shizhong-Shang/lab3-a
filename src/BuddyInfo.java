@@ -27,6 +27,6 @@ public class BuddyInfo {
 
         BuddyInfo n = new BuddyInfo("Homer","Carleton","613");
         System.out.println("Hello " + n.getName() + ", your address is " + n.getAddress() + ", your phone number is " + n.getPhoneNumber());
-    }
+    }//change
 }
 
